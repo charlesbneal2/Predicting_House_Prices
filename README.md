@@ -1,5 +1,5 @@
 # House Sale Price Predictor: Project Overview
-- Created a tool that estimates house sale prices (RMSE ~$27,000) for based to help people negotiate selling or buying a home
+- Created a tool that estimates house sale prices (RMSE ~$27,000) to help people negotiate selling or buying a home
 - Built the tool on house sale data compiled from Ames, Iowa from 2006 to 2010. The data were published by Dean De Cock in the Journal of Statistics Education
 - Implemented a multivariate linear regression model with k-fold cross validation
 
